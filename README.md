@@ -1,5 +1,5 @@
 # Bright-Network-Google-Project
-This was a project based on a challenge provided by Google via BrightNetwork
+This was a project based on a challenge provided by Google via BrightNetwork. Unfortunately, only part one was completed and working properly. 
 # The requirements of this project is Highlighted Below:
 - Pyhton 3.7 or higher
 - Need to install Pytest (pip install pytest)
